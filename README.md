@@ -101,9 +101,8 @@ Make sure you have the following installed:
 - `dotenv`: Load environment variables from `.env` file
 - `express`: Web framework for Node.js
 - `mongoose`: MongoDB object modeling tool
-- `zod`: TypeScript-first schema validation
 ```bash
-  npm install --save-dev typescript eslint prettier ts-node-dev
+  npm install cors dotenv express mongoose 
 ```
 
 ### Development:
