@@ -102,12 +102,18 @@ Make sure you have the following installed:
 - `express`: Web framework for Node.js
 - `mongoose`: MongoDB object modeling tool
 - `zod`: TypeScript-first schema validation
+```bash
+  npm install --save-dev typescript eslint prettier ts-node-dev
+```
 
 ### Development:
 - `typescript`: TypeScript compiler
 - `eslint`: Linting tool for JavaScript/TypeScript
 - `prettier`: Code formatter
 - `ts-node-dev`: Development server for TypeScript
+```bash
+  npm install --save-dev typescript eslint prettier ts-node-dev
+```
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
