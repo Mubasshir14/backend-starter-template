@@ -92,6 +92,7 @@ Make sure you have the following installed:
 ├── .prettierrc         # Prettier configuration
 ├── tsconfig.json       # TypeScript configuration
 └── package.json        # Project metadata and scripts
+```
 
 ## Dependencies
 
